@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "name": "Vue Component Generator",
+  "version": "0.1.0",
+  "id": "vue-component-generator",
+  "main": "index.html",
+  "menu": {
+    "label": "Generate Vue Component",
+    "action": "open"
+  }
+}
